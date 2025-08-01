@@ -31,3 +31,23 @@ RackNerd 优惠促销活动较多，除了非常抢手和限量的闪购套餐�
 | 2核心 | 2GB | 30GB SSD | 4TB @ 1Gbps | $17.66/年 | [点击购买](https://my.racknerd.com/aff.php?aff=2431&pid=913) |
 | 3核心 | 3.5GB | 60GB SSD | 5TB @ 1Gbps | $29.89/年 | [点击购买](https://my.racknerd.com/aff.php?aff=2431&pid=914) |
 | 4核心 | 5GB | 100GB SSD | 10TB @ 1Gbps | $54.99/年 | [点击购买](https://my.racknerd.com/aff.php?aff=2431&pid=915) |
+
+这是 RackNerd 5月份在国外知名主机论坛Lowendtalk发布的促销优惠，可以通过在[Lowendtalk回帖](https://lowendtalk.com/discussion/185231/easter-deals-new-inventory-new-deals-excellent-pricing-fantastic-support#latest)申请双倍流量。多机房可选，均采用SSD储存，默认1个IPv4，1Gbps带宽。
+
+## RackNerd常见问题
+
+### RackNerd怎么申请流量翻倍？
+
+以上所有特价套餐都可以免费申请流量翻倍，具体申请方法是：通过在[Lowendtalk回帖](https://lowendtalk.com/discussion/185231/easter-deals-new-inventory-new-deals-excellent-pricing-fantastic-support#latest)申请（或者[这个页面](https://lowendtalk.com/profile/discussions/dustinc)下最新帖子里回复），回帖格式：
+
+> Hello, I would like to double the bandwidth.
+> 
+> Order: 订单号（邮件里看，10位数）
+> 
+> Thanks!
+
+### RackNerd可以更换IP吗？
+
+RackNerd可以在后台自助更换IP，具体规则如下：
+
+购买VPS 72小时内第一次更换 IP 免费，免费更换IP后不会再获得任何免费IP更改机会。购买VPS 72小时后， 更换IP一次性收费3美金。
