@@ -2,7 +2,7 @@
 
 RackNerd是一家国外主机商，成立于2017年，主要提供虚拟主机、VPS主机、独立服务器和服务器托管等服务，有美国、加拿大、英国、荷兰、法国、德国、新加坡、爱尔兰等数据中心。支持支付宝、Paypal、信用卡、银联卡、虚拟币等多种支付方式。
 
-RackNerd官网：(https://racknerd.com)[https://my.racknerd.com/aff.php?aff=2431&gid=1]
+RackNerd官网：[https://racknerd.com](https://my.racknerd.com/aff.php?aff=2431&gid=1){:target="_blank"}
 
 ## RackNerd最新优惠促销
 
