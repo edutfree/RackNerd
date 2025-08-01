@@ -12,59 +12,16 @@ RackNerd 优惠促销活动较多，除了非常抢手和限量的闪购套餐�
 
 ### 促销套餐推荐
 
-第一款性价比最高，而且可以选择洛杉矶DC-02数据中心。第二款是2x AMD Ryzen 3900X CPU，NVMe硬盘，性能强劲，可选美国西海岸西雅图机房。后面两款是相对便宜的洛杉矶DC-02数据中心套餐，不过经常无货。
+第一款性价比最高，而且可以选择洛杉矶DC-02数据中心。第二款是 **AMD Ryzen 3900X CPU**，NVMe硬盘，性能强劲，可选美国西海岸西雅图机房。后面两款是相对便宜的洛杉矶DC-02数据中心套餐，不过经常无货。
 
-<table>
-	<thead>
-		<tr>
-			<th>CPU</th>
-			<th>内存</th>
-			<th>硬盘</th>
-			<th>流量</th>
-			<th>价格</th>
-			<th>购买链接</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>3核心</td>
-			<td>3.5GB</td>
-			<td>45GB</td>
-			<td>7TB @ 1Gbps</td>
-			<td>$28.99/年</td>
-			<td>
-				<a href="https://my.racknerd.com/aff.php?aff=2431&pid=136" target="_blank" rel="noreferrer noopener nofollow">点击购买</a>
-			</td>
-		</tr>
-		<tr>
-			<td>2核心AMD Ryzen 3900X</td>
-			<td>2GB</td>
-			<td>38GB NVMe</td>
-			<td>4TB @ 1Gbps</td>
-			<td>$31.88/年</td>
-			<td>
-				<a href="https://my.racknerd.com/aff.php?aff=2431&pid=524" target="_blank" rel="noreferrer noopener nofollow">点击购买</a>
-			</td>
-		</tr>
-		<tr>
-			<td>1核心</td>
-			<td>768MB</td>
-			<td>10GB SSD</td>
-			<td>2TB @ 1Gbps</td>
-			<td>$11.88/年</td>
-			<td>
-				<a href="https://my.racknerd.com/aff.php?aff=2431&pid=679" target="_blank" rel="noreferrer noopener nofollow">点击购买</a>
-			</td>
-		</tr>
-		<tr>
-			<td>1核心</td>
-			<td>512MB</td>
-			<td>10GB SSD</td>
-			<td>1TB @ 1Gbps</td>
-			<td>$9.89/年</td>
-			<td>
-				<a href="https://my.racknerd.com/aff.php?aff=2431&pid=620" target="_blank" rel="noreferrer noopener nofollow">点击购买</a>
-			</td>
-		</tr>
-	</tbody>
-</table>
+| CPU | 内存  | 硬盘  | 流量  | 价格  | 购买链接 |
+| --- | --- | --- | --- | --- | --- |
+| 3核心 | 3.5GB | 45GB | 7TB @ 1Gbps | $28.99/年 | [点击购买](https://my.racknerd.com/aff.php?aff=2431&pid=136) |
+| 2核心 | 2GB | 38GB NVMe | 4TB @ 1Gbps | $31.88/年 | [点击购买](https://my.racknerd.com/aff.php?aff=2431&pid=524) |
+| 1核心 | 768MB | 10GB SSD | 2TB @ 1Gbps | $11.88/年 | [点击购买](https://my.racknerd.com/aff.php?aff=2431&pid=679) |
+| 1核心 | 512MB | 10GB SSD | 1TB @ 1Gbps | $9.89/年 | [点击购买](https://my.racknerd.com/aff.php?aff=2431&pid=620) |
+
+### RackNerd补货洛杉矶DC03机房套餐
+
+非优化线路，日常促销活动。
+
