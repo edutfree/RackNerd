@@ -47,6 +47,17 @@ RackNerd高性能VPS服务器全部采用AMD最新Ryzen 9 3900X处理器和DDR4�
 | 1核心 | 1.5GB | 22G | 3000G | $35/年 | **[查看详情](https://my.racknerd.com/aff.php?aff=2431&pid=308)** |
 | 2核心 | 2.5GB | 40G | 6000G | $69/年 | **[查看详情](https://my.racknerd.com/aff.php?aff=2431&pid=309)** |
 
+### RackNerd Ryzen 7950X 高性能 VPS 特惠套餐
+
+| 活动  | vCore (Ryzen 7950X) | RAM | NVMe | 月流量 (折算) | 价格 (USD/年) | 购买链接 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2023 黑五 | 1   | 1.5 GB | 30 GB | 2.5 TB | $19.00 | [下单](https://my.racknerd.com/aff.php?aff=2431&pid=797) |
+| 2023 黑五 | 2   | 2 GB | 40 GB | 4 TB | $29.00 | [下单](https://my.racknerd.com/aff.php?aff=2431&pid=798) |
+| 2023 黑五 | 2   | 3 GB | 55 GB | 6 TB | $45.00 | [下单](https://my.racknerd.com/aff.php?aff=2431&pid=799) |
+| 2024 新年 | 1   | 1.2 GB | 25 GB | 2.5 TB | $18.88 | [下单](https://my.racknerd.com/aff.php?aff=2431&pid=830) |
+| 2024 新年 | 2   | 2.5 GB | 38 GB | 4 TB | $32.98 | [下单](https://my.racknerd.com/aff.php?aff=2431&pid=831) |
+| 2024 新年 | 2   | 4 GB | 65 GB | 6 TB | $55.88 | [下单](https://my.racknerd.com/aff.php?aff=2431&pid=832) |
+
 ### 2025年 New Year 新年促销活动
 
 纯ssd固态硬盘，优惠套餐仍可购买。
