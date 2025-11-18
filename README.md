@@ -21,6 +21,18 @@ RackNerd 优惠促销活动较多，除了非常抢手和限量的闪购套餐�
 | 1核心 | 768MB | 10GB SSD | 2TB @ 1Gbps | $11.88/年 | [点击购买](https://my.racknerd.com/aff.php?aff=2431&pid=679) |
 | 1核心 | 512MB | 10GB SSD | 1TB @ 1Gbps | $9.89/年 | [点击购买](https://my.racknerd.com/aff.php?aff=2431&pid=620) |
 
+### 2025黑五促销套餐
+
+高配置套餐性价比更高。
+
+| **内存** | **CPU** | **SSD** | **流量** | **价格** | **购买** |
+| --- | --- | --- | --- | --- | --- |
+| 1G  | 1核  | 25G | 2T/月 | $10.6/年 | **[链接](https://my.racknerd.com/aff.php?aff=2431&pid=923)** |
+| 2.5G | 2核  | 45G | 3T/月 | $18.66/年 | **[链接](https://my.racknerd.com/aff.php?aff=2431&pid=924)** |
+| 4G  | 3核  | 65G | 6.5T/月 | $29.98/年 | **[链接](https://my.racknerd.com/aff.php?aff=2431&pid=925)** |
+| 6G  | 5核  | 100G | 10T/月 | $44.98/年 | **[链接](https://my.racknerd.com/aff.php?aff=2431&pid=926)** |
+| 8G  | 6核  | 150G | 20T/月 | $62.49/年 | **[链接](https://my.racknerd.com/aff.php?aff=2431&pid=927)** |
+
 ### RackNerd补货洛杉矶DC03机房套餐
 
 2025.08补货，非优化线路，日常促销活动。
