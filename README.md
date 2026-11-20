@@ -21,6 +21,18 @@ RackNerd 优惠促销活动较多，除了非常抢手和限量的闪购套餐�
 | 1核心 | 768MB | 10GB SSD | 2TB @ 1Gbps | $11.88/年 | [点击购买](https://my.racknerd.com/aff.php?aff=2431&pid=679) |
 | 1核心 | 512MB | 10GB SSD | 1TB @ 1Gbps | $9.89/年 | [点击购买](https://my.racknerd.com/aff.php?aff=2431&pid=620) |
 
+### 2026黑五促销套餐
+
+New York (Test IP: 192.3.81.8) 、 Los Angeles DC03 (Test IP: 107.174.51.158) 、 Chicago, IL (Test IP: 198.23.228.15) 、 Dallas, TX (Test IP: 198.23.249.100) 、 Seattle (Test IP: 192.3.253.2) 、 San Jose, CA (Test IP: 192.210.207.88) 、 Ashburn (Test IP: 107.173.166.10) 等机房可选。
+
+| **内存** | **CPU** | **SSD** | **流量** | **价格** | **购买** |
+| --- | --- | --- | --- | --- | --- |
+| 1G  | 1核  | 20G | 3000G/月 | $15.98/年 | **[链接](https://my.racknerd.com/aff.php?aff=2431&pid=968)** |
+| 2.5G | 2核  | 30G | 6000G/月 | $27.98/年 | **[链接](https://my.racknerd.com/aff.php?aff=2431&pid=969)** |
+| 4G  | 4核  | 60G | 10000G/月 | $47.98/年 | **[链接](https://my.racknerd.com/aff.php?aff=2431&pid=970)** |
+| 6G  | 6核  | 85G | 15000G/月 | $74.98/年 | **[链接](https://my.racknerd.com/aff.php?aff=2431&pid=971)** |
+| 8G  | 6核  | 140G | 20000G/月 | $94.98/年 | **[链接](https://my.racknerd.com/aff.php?aff=2431&pid=972)** |
+
 ### 2025黑五促销套餐
 
 高配置套餐性价比更高。
